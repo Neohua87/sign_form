@@ -1,0 +1,23 @@
+{
+  "name": "signform",
+  "authors": [
+    "Neohua87 <msx0808@qq.com>"
+  ],
+  "description": "a form aim to wechat sign",
+  "main": "signform.js",
+  "moduleType": [],
+  "keywords": [
+    "sign",
+    "form",
+    "wechat"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
