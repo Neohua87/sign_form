@@ -14,7 +14,7 @@
   the value "isfocus" change according to your logic
 ## Install
 
-$ bower install sign --sav
+$ bower install signform --save
 
 ## Usage
 
